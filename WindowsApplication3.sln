@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication3", "WindowsApplication3\WindowsApplication3.vbproj", "{7494B71E-EAA7-464C-AE9E-00834E3A8D19}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ValBerekenenInstaller", "ValBerekenenInstaller\ValBerekenenInstaller.vdproj", "{B178F8A0-56CD-43A0-9D5A-D3AEB26C4ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7494B71E-EAA7-464C-AE9E-00834E3A8D19}.Debug|x86.ActiveCfg = Debug|x86
+		{7494B71E-EAA7-464C-AE9E-00834E3A8D19}.Debug|x86.Build.0 = Debug|x86
+		{7494B71E-EAA7-464C-AE9E-00834E3A8D19}.Release|x86.ActiveCfg = Release|x86
+		{7494B71E-EAA7-464C-AE9E-00834E3A8D19}.Release|x86.Build.0 = Release|x86
+		{B178F8A0-56CD-43A0-9D5A-D3AEB26C4ED9}.Debug|x86.ActiveCfg = Debug
+		{B178F8A0-56CD-43A0-9D5A-D3AEB26C4ED9}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B122D21C-7433-41DD-ABD9-0FC0A129C99A}
+	EndGlobalSection
+EndGlobal
